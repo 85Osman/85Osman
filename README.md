@@ -14,3 +14,4 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en UNIVERSAE.
 
 ---
 ⭐ *¡Gracias por visitar mi perfil de GitHub!*
+- ⚡ Dato curioso: ¡Me encanta aprender cosas nuevas y ponerlas en práctica!
